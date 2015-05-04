@@ -1,0 +1,20 @@
+/* CSS declarations go here */
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  padding: 10px;
+}
+
+main {
+  width: 280px;
+  float: left;
+}
+
+#allUsers {
+  margin-left: 70%;
+  border: 1px solid red;
+  padding: 5px;
+}
